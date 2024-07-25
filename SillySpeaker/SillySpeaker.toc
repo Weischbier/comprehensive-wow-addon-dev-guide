@@ -1,0 +1,13 @@
+## Interface: 90205
+## Title: SillySpeaker
+## Notes: Makes your character say silly things!
+## Author: The Salty Seagull
+## Version: 1.0
+## SavedVariables: SillySpeakerDB
+## OptionalDeps: Ace3
+
+embeds.xml
+SillySpeaker.xml
+config.lua
+phrases.lua
+SillySpeaker.lua
