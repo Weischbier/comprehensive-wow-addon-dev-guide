@@ -40,12 +40,10 @@ Techniques and tools for effectively testing and debugging your addons.
 
 ## Resources
 
-- [WoW API Documentation](https://wowpedia.fandom.com/wiki/World_of_Warcraft_API)
+- [WoW API Documentation Warcraft.wiki.gg](https://warcraft.wiki.gg/wiki/World_of_Warcraft_API)
+- [WoW API Documentation WowProgramming.com](https://wowprogramming.com/docs/api.html)
+- [WoW API Documentation townlong-yak.com](https://www.townlong-yak.com/framexml/live/Blizzard_APIDocumentation/)
 - [Lua Programming Guide](https://www.lua.org/manual/5.1/)
-
-## Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
